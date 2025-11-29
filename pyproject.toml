@@ -1,0 +1,13 @@
+[project]
+name = "data-science-ipython-notebooks"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12, <3.13"
+dependencies = [
+    "ipywidgets>=8.1.8",
+    "jupyterlab>=4.5.0",
+    "scikit-learn>=1.7.2",
+    "scipy>=1.16.3",
+    "seaborn>=0.13.2",
+]
